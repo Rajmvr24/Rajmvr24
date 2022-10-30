@@ -3,8 +3,7 @@
 <br/>
 <br/>
 
-    ### Hi I'm Vignesh Raj👋
-
+### Hi I'm Vignesh Raj👋
 
 <br/>
 <p align="center">
