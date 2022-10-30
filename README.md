@@ -15,9 +15,9 @@
    [![steam Badge](https://img.shields.io/badge/-Friend%20code:1254384472-blue?style=flat&logo=steam&logoColor=white&link=https://store.steampowered.com)](https://store.steampowered.com)
 </p>
 
-Welcome to my profile! I'm a recent Master Graduate at Kaunas university of technology. I'm from India, living in Lithuania and currently looking for entry level jobs related to electronics. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/rajmvr/) !
+Welcome to my profile! I'm a recent Master Graduate at Kaunas University of Technology. I'm from India, living in Lithuania, and am currently looking for entry-level jobs related to electronics. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/rajmvr/) !
 
-**Field of interests**: PCB Design, Embedded system, 5G.
+**Field of interest**: PCB Design, Embedded system, 5G.
 
 ### Skills 🛠️
 - **Languages**: &nbsp;&nbsp; &nbsp;                           C, C++, Matlab, Python
@@ -32,10 +32,10 @@ Welcome to my profile! I'm a recent Master Graduate at Kaunas university of tech
 - [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
 - [Bachelor's degree](https://github.com/dayyass/bachelor-diploma) @ Plekhanov Russian University of Economics (2015 - 2019)
 -->
-- [Master’s degree]-Masters in Electronics Engineering  @Kaunas university of Technology (2019 - 2022)
+- [Master’s degree]- Masters in Electronics Engineering  @Kaunas University of Technology (2019 - 2022)
 - [Bachelor's degree]- Electronics and Communication Engineering  @DMI College of Engineering (2015 - 2019)
-- [Higher Secondary Course]- @St. Mary's Matriculation Higher Secondary school(2014 - 2015)
-- [Secondary School Course]- @St. Mary's Matriculation Higher Secondary school(2012 - 2013)
+- [Higher Secondary Course]- @St. Mary's Matriculation Higher Secondary school (2014 - 2015)
+- [Secondary School Course]- @St. Mary's Matriculation Higher Secondary school (2012 - 2013)
 ### Thesis 🚀
 - Investigation of 5G Radio wave propagation in macro cell environments -[Click here](https://github.com/Rajmvr24/Masters-Thesis)
 - Implementation of IOT in Agriculture (AGRIBOT 1.0)
@@ -59,17 +59,17 @@ Welcome to my profile! I'm a recent Master Graduate at Kaunas university of tech
 
 ### Other DIY fun Works
 - Front-end Website Design
-- Motion picture Design
-- Creating Github Profile
+- Motion Picture Design
+- Creating a Github profile portfolio
 
 
 ### Fun facts about me 😃
-- I'm on track with learning more about PCB design and Embedded ✍️
+- I'm on track with learning more about PCB design and Embedded Systems✍️
 - In my free time, I enjoy playing pc games🎮.
 - I am a science guy and love space 🔭
 - Planning to custom build my gaming pc setup 🖥️
 - Like to play chess ♟️
-- Currently working on building my profile to get Job 👨‍💼
+- Currently working on building my profile to get a Job 👨‍💼
 
 
 <br/>
