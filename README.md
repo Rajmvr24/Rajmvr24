@@ -2,9 +2,9 @@
 
 <br/>
 <br/>
-<p align="center">
-    Hi I'm Vignesh Raj👋
-</p>
+
+    ### Hi I'm Vignesh Raj👋
+
 
 <br/>
 <p align="center">
@@ -24,8 +24,7 @@ Welcome to my profile! I'm a recent Master Graduate at Kaunas university of tech
 - **Languages**: &nbsp;&nbsp; &nbsp;                           C, C++, Matlab, Python
 - **IDE**: &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                      Code Blocks, VS Code, Keil uVision, IAR
 - **PCB Design**:  &nbsp;&nbsp;  Altium, Solidworks PCB, Proteus
-- **Others**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Linux, Git, Docker, CI/CD
-
+- **Others**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Git, Github, front-end Website Design
 
 
 ### Education 🎓
@@ -79,4 +78,4 @@ Welcome to my profile! I'm a recent Master Graduate at Kaunas university of tech
 Thanks for checking my full Profile 👍
 <br/>
 <p align="center">
-If you like my profile in github feel free to give star 🌟
+If you like my profile in github feel free to give a star 🌟
