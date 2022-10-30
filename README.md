@@ -11,7 +11,7 @@
    [![Linkedin Badge](https://img.shields.io/badge/-Vignesh%20Raj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajmvr/)](https://www.linkedin.com/in/rajmvr/)
    [![Instagram Badge](https://img.shields.io/badge/-euro_trooper-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/euro_trooper/)](https://www.instagram.com/euro_trooper/)
    [![Gmail Badge](https://img.shields.io/badge/-rajmvr24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rajmvr24@gmail.com)](mailto:jrajmvr24@gmail.com)
-   [![whatsapp Badge](https://img.shields.io/badge/-+37062529883-brightgreen?style=flat&logo=Whatsapp&logoColor=white&link=mailto:rajmvr24@gmail.com)](mailto:jrajmvr24@gmail.com)
+   [![whatsapp Badge](https://img.shields.io/badge/-+37062529883-brightgreen?style=flat&logo=Whatsapp&logoColor=white&link=https://www.whatsapp.com)](https://www.whatsapp.com)
    [![steam Badge](https://img.shields.io/badge/-Friend%20code:1254384472-blue?style=flat&logo=steam&logoColor=white&link=https://store.steampowered.com)](https://store.steampowered.com)
 </p>
 
