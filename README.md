@@ -41,7 +41,7 @@ Welcome to my profile! I'm a recent Master Graduate at Kaunas University of Tech
 - Implementation of IOT in Agriculture (AGRIBOT 1.0)
 
 ### Extra courses 📜
-- [PCB Design using Altium Designer](https://www.skillshare.com/en/classes/PCB-Design-using-Altium-Designer/391115842?via=search-layout-grid) @ skillshare
+- PCB Design using Altium Designer @skillshare -[Click here](https://github.com/Rajmvr24/PCB-Design-using-Altium-Designer)
 
 <!--
 ### Achievements/Certification 🏆
