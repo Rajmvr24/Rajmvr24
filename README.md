@@ -69,7 +69,7 @@ Welcome to my profile! I'm a recent Master Graduate at Kaunas University of Tech
 - I am a science guy and love space 🔭
 - Planning to custom build my gaming pc setup 🖥️
 - Like to play chess ♟️
-- Currently working on building my profile to get a Job 👨‍💼
+- Currently working on building my profile to get opportunities👨‍💼
 
 
 <br/>
